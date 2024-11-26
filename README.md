@@ -35,12 +35,14 @@
 
 <h2>:hammer_and_wrench: Linguagens e ferramentas:</h2>
 
-<div dir="auto" align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img class="output" height="175" src="https://github-readme-stats.vercel.app/api?username=danilonakasawa&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-  <img class="output" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloNakasawa&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+
+<div dir="auto" align="center">
+  <img class="output" height="175" src="https://github-readme-stats.vercel.app/api?username=danilonakasawa&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats" style="float: left;">
+  <img class="output" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloNakasawa&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages" style="float: left;">
 </div>
+<div style="clear: both;"></div>
 
-
+---
 #### Main Stack:
 <div style="display: inline_block">
 
