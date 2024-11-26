@@ -1,6 +1,6 @@
 <img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0541f0,2&height=150&section=header%20render&fontSize=90' />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hellow,+bem+vindo+ao+meu+Perfil+👋+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+bem+-+vindo+ao+meu+Perfil+👋+:%29)](https://git.io/typing-svg) 
 ---
 
 <div align="center" dir="auto">
@@ -35,10 +35,11 @@
 
 <h2>:hammer_and_wrench: Linguagens e ferramentas:</h2>
 
-<div dir="auto" align="center">
+<div dir="auto" align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img class="output" height="175" src="https://github-readme-stats.vercel.app/api?username=danilonakasawa&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
   <img class="output" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloNakasawa&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
+
 
 #### Main Stack:
 <div style="display: inline_block">
