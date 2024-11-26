@@ -3,12 +3,71 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hellow,+bem+vindo+ao+meu+Perfil+👋+:%29)](https://git.io/typing-svg) 
 ---
 
-<div dir="auto" align="center">
-  <a href="https://github.com/danilonakasawa">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=danilonakasawa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonakasawa&layout=compact&langs_count=7&theme=react" />
+<div align="center" dir="auto">
+  
+  <a href="https://wa.me/5519995405067">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/danilo-nakasawa/" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="25" style="max-width: 100%;" />
+  </a>
+  
+  <a href="mailto:lucaskoyamahhh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" style="max-width: 100%;" />
+  </a>
+</div>
 
-  <img width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td>🇧🇷 Me encontre nas redes sociais</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h4 align="center">
+  <a href="https://daniloNakasawa.dev/"> Portfolio </a>👨‍💻
+  <a href="https://gist.github.com/daniloNakasawa">Minhas Gists </a>📚
+</h4>
+
+<h2>:rocket: Experiência e Projetos (Veja os repos pinados!)</h2>
+<table align="center">
+  <tbody>
+    <tr>
+      <td width="800" height="150">
+        <a href="https://peakonedev.com/" rel="nofollow"><img align="left" height="94px" width="94px" alt="Peak One Dev" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYQF1ERFLLWeVcI5XhjtFFQDRfmRBYir9WuKeSDUlLQAopBptfs8kHTmI3K9HKC53MeRghcD6l9QWWB_X9pvhkd8G1gxg=w1920-h868" style="max-width: 100%;"></a>
+        <p dir="auto">
+          <strong>Desenvolvedor Front end</strong> <br>
+          <a href="https://peakonedev.com/" rel="nofollow">
+            <strong>Peak One Dev</strong>
+          </a> • Integral <br>
+          Linguagens &amp; Tecnologias: <code>Astro.js</code> <code>HTML 5</code> <code>CSS3</code> <code>JavaScript ES6</code> <code>Git & Github</code>
+          <br>
+        </p>
+      </td>
+      <td width="800" height="150">
+        <a href="https://www.oncet.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="ON-CET" src="https://github.com/lucasKoyama/LucasKoyama/blob/main/oncet_icon.png" style="max-width: 100%;"></a>
+        <p dir="auto">
+          <strong>Desenvolvedor Front end</strong> <br>
+          <a href="https://www.oncet.com.br/" rel="nofollow">
+            <strong>ON-CET</strong>
+          </a> • Freelance <br>
+          Linguagens &amp; Tecnologias: <code>Next.js</code> <code>HTML 5</code> <code>CSS3</code> <code>Javascript ES6</code> <code>Git & Github</code>  
+          <br>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>:hammer_and_wrench: Linguagens e ferramentas:</h2>
+
+<div dir="auto" align="center">
+  <img class="output" height="175" src="https://github-readme-stats.vercel.app/api?username=danilonakasawa&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+  <img class="output" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloNakasawa&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
 
 #### Main Stack:
