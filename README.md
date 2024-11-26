@@ -33,13 +33,6 @@
   <a href="https://gist.github.com/daniloNakasawa">Minhas Gists </a>📚
 </h4>
 
-<h2>:rocket: Experiência e Projetos (Veja os repos pinados!)</h2>
-<table align="center">
-  <tbody>
-    
-  </tbody>
-</table>
-
 <h2>:hammer_and_wrench: Linguagens e ferramentas:</h2>
 
 <div dir="auto" align="center">
