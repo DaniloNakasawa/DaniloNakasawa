@@ -81,13 +81,15 @@
 
 ##
 
-  <div align="center">
-    <a href="https://github.com/caueperuque">
-    <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=danilonakasawa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonakasawa&layout=compact&langs_count=7&theme=react" />
-    <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-  </div>
+<div style="display: inline">
+  <a href="https://github.com/danilonakasawa">
+  <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danilonakasawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danilonakasawa&layout=compact&langs_count=20&theme=dark"/>
+</div>
 
+
+
+<br>
 <hr>
 </div>
 
