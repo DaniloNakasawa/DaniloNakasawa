@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hellow,+bem+vindo+ao+meu+Perfil+👋+:%29)](https://git.io/typing-svg) 
 ---
 
-<div>
+<div dir="auto" align="center">
   <a href="https://github.com/danilonakasawa">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=danilonakasawa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonakasawa&layout=compact&langs_count=7&theme=react" />
