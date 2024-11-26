@@ -36,8 +36,8 @@
 <h2>:hammer_and_wrench: Linguagens e ferramentas:</h2>
 
 <div dir="auto" align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img class="output" height="120" width="200" src="https://github-readme-stats.vercel.app/api?username=danilonakasawa&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-  <img class="output" height="120" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloNakasawa&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+  <img class="output" height="175" width="250" src="https://github-readme-stats.vercel.app/api?username=danilonakasawa&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+  <img class="output" height="175" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloNakasawa&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
 
 
