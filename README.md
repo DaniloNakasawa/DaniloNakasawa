@@ -83,8 +83,8 @@
 
 <div style="display: inline">
   <a href="https://github.com/danilonakasawa">
-  <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danilonakasawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danilonakasawa&layout=compact&langs_count=20&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danilonakasawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danilonakasawa&layout=compact&langs_count=20&theme=dark"/>
 </div>
 
 
