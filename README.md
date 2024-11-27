@@ -28,7 +28,7 @@
 <p>Olá! Sou o <strong>Danilo</strong>, desenvolvedor Full Stack e entusiasta de tecnologia, atualmente cursando <strong>Ciência da Computação</strong> pela Universidade Estácio e formado em <strong>Desenvolvimento Full Stack</strong> pela Trybe Tech. Minha jornada na tecnologia é guiada pela curiosidade e paixão por resolver problemas complexos, sempre com foco em criar soluções práticas e inovadoras.</p>
 
 <h3>🌟 <strong>Minhas Paixões</strong>:</h3>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <ul>
   <li>Construir aplicações que ofereçam uma excelente <strong>experiência do usuário</strong>.</li>
